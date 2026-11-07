@@ -1,4 +1,4 @@
-<img width="1288" height="690" alt="image" src="https://github.com/user-attachments/assets/a22de10b-fe73-4b14-b5c3-e6d7c03f00a8" />
+<img width="1288" height="690" alt="image" />
 #  About CYBORG-GL:
 "Turning futuristic visions into scalable, real-world systems. Senior Full-Stack Developer designing the next-gen evolution of futuristic TECH & more."
 
