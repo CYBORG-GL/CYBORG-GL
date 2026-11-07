@@ -115,19 +115,11 @@ const cyborg = {
 
 > 🔧 *WakaTime card needs your WakaTime username to equal `CYBORG-GL` (or change the `username=` value) and **"Display code time publicly"** turned on in WakaTime settings.*
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CYBORG-GL&bg_color=0D0D0D&color=FF1E3C&line=FF1E3C&point=FFFFFF&area=true&area_color=FF1E3C&hide_border=true&custom_title=CYBORG-GL%20%2F%2F%20Contribution%20Signal" width="100%" alt="Contribution graph"/>
-
-</div>
-
 ## 🌌 3D Contribution Matrix
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+<img src="https://raw.githubusercontent.com/CYBORG-GL/CYBORG-GL/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
 
 </div>
 
@@ -140,21 +132,6 @@ const cyborg = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CYBORG-GL/CYBORG-GL/output/github-snake.svg"/>
   <img alt="Snake eating contribution graph" src="https://raw.githubusercontent.com/CYBORG-GL/CYBORG-GL/output/github-snake-dark.svg"/>
 </picture>
-
-</div>
-
-## 🚀 Featured Repositories
-
-<!-- Replace REPO_ONE ... REPO_SIX with your actual pinned repo names -->
-
-<div align="center">
-
-<a href="https://github.com/CYBORG-GL/REPO_ONE"><img src="https://github-readme-stats.shion.dev/api/pin/?username=CYBORG-GL&repo=REPO_ONE&bg_color=0D0D0D&title_color=FF1E3C&icon_color=FF1E3C&text_color=E6E6E6&border_color=5C0014" alt="REPO_ONE"/></a>
-<a href="https://github.com/CYBORG-GL/REPO_TWO"><img src="https://github-readme-stats.shion.dev/api/pin/?username=CYBORG-GL&repo=REPO_TWO&bg_color=0D0D0D&title_color=FF1E3C&icon_color=FF1E3C&text_color=E6E6E6&border_color=5C0014" alt="REPO_TWO"/></a>
-<a href="https://github.com/CYBORG-GL/REPO_THREE"><img src="https://github-readme-stats.shion.dev/api/pin/?username=CYBORG-GL&repo=REPO_THREE&bg_color=0D0D0D&title_color=FF1E3C&icon_color=FF1E3C&text_color=E6E6E6&border_color=5C0014" alt="REPO_THREE"/></a>
-<a href="https://github.com/CYBORG-GL/REPO_FOUR"><img src="https://github-readme-stats.shion.dev/api/pin/?username=CYBORG-GL&repo=REPO_FOUR&bg_color=0D0D0D&title_color=FF1E3C&icon_color=FF1E3C&text_color=E6E6E6&border_color=5C0014" alt="REPO_FOUR"/></a>
-<a href="https://github.com/CYBORG-GL/REPO_FIVE"><img src="https://github-readme-stats.shion.dev/api/pin/?username=CYBORG-GL&repo=REPO_FIVE&bg_color=0D0D0D&title_color=FF1E3C&icon_color=FF1E3C&text_color=E6E6E6&border_color=5C0014" alt="REPO_FIVE"/></a>
-<a href="https://github.com/CYBORG-GL/REPO_SIX"><img src="https://github-readme-stats.shion.dev/api/pin/?username=CYBORG-GL&repo=REPO_SIX&bg_color=0D0D0D&title_color=FF1E3C&icon_color=FF1E3C&text_color=E6E6E6&border_color=5C0014" alt="REPO_SIX"/></a>
 
 </div>
 
