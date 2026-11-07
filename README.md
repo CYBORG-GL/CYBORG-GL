@@ -1,5 +1,5 @@
-# 💫 About Me:
-Turning futuristic visions into scalable, real-world systems. Senior Full-Stack Developer designing the next-gen evolution of futuristic TECH & more.
+#  About CYBORG-GL:
+"Turning futuristic visions into scalable, real-world systems. Senior Full-Stack Developer designing the next-gen evolution of futuristic TECH & more."
 
 
 ## 🌐 Socials:
